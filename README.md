@@ -25,6 +25,6 @@ Death growth rate varies across the year, indicating seasonal and operational im
 
 Cumulative deaths increase steadily mid-year, then slow toward year-end.
 
-📌 Summary
+ Summary
 
 The dashboard provides clear visibility into hospital performance, highlights mortality patterns over time, and supports data-driven healthcare decision-making through intuitive KPIs and visual storytelling.
