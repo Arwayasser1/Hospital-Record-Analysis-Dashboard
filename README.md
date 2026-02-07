@@ -1,4 +1,5 @@
-<img width="1344" height="791" alt="Screenshot 2026-01-31 104934" src="https://github.com/user-attachments/assets/00f4edc9-79f3-4537-8c16-ca547de91644" />
+<img width="1382" height="800" alt="Screenshot 2026-02-07 224958" src="https://github.com/user-attachments/assets/e2891994-7bfb-4bd7-9deb-57e930206651" />
+
 
 # Hospital-Record-Analysis-Dashboard
 Hospital Record Analysis Dashboard
